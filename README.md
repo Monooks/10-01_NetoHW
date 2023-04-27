@@ -82,6 +82,10 @@ unicast_peer {
 }
 }
 ```
+![Скриншот-1](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_1.1.png)
+![Скриншот-2](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_1.3.png)
+
+
 2. Нода № 2:
 ```
 vrrp_instance failover_test {
@@ -102,9 +106,8 @@ unicast_peer {
 }
 }
 ```
-![Скриншот-1](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_1.1.png)
-
-![Скриншот-2](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_1.2.png)
+![Скриншот-3](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_1.2.png)
+![Скриншот-4](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_1.4.png)
 ---
 ## Дополнительные задания со звёздочкой*
 
@@ -122,6 +125,5 @@ unicast_peer {
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
 
 ### ОТВЕТ:
-![Скриншот-1](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_2.1.png)
-
-![Скриншот-2](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_2.2.png)
+![Скриншот-5](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_2.1.png)
+![Скриншот-6](https://github.com/Monooks/10-01_NetoHW/blob/main/img/10.01_2.2.png)
